@@ -1,0 +1,13 @@
+sudo adduser $USER vboxsf
+
+and
+
+
+
+gcc --version
+sudo apt install build-essential
+sudo apt-get install gcc (or) 
+
+touch hello.c
+gcc hello.c -o test
+./test
