@@ -1,0 +1,11 @@
+
+Google app engine
+gcloud config set project projectname
+Git clone https://github.com/MadhanR-2004/cclab1
+cd cclab1
+ls
+Python program name.py
+
+//after ls
+cat name.py
+python3 name.py
